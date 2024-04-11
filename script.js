@@ -3,7 +3,7 @@
 // Declare and initialise color button variable
 const colorTogglebtn = document.querySelector("#toggle-color");
 
-// Set a boolean value to an initial value of true to track background color change
+// Inital background color is pink as per css
 isPink = true;
 
 // Set button to listen for click and create anonymous function to change background color
