@@ -25,4 +25,4 @@ Used CSS grid layout to place all seven elements consisting of the book title, b
 An interactive button programmed with Javascript is placed at the bottom of the website. Upon clicking on the button, the background color will be changed from pastel pink to pastel purple and so forth.
 
 **Button Demo**
-![Button Preview](img/button.gif)
+![Button Preview](img/button-demo.gif)
