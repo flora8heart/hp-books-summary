@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a webpage displaying book summaries of all seven Harry Potter books written by J.K. Rowling. Click [here](placeholder) for a live preview of the webpage.
+This is a webpage displaying book summaries of all seven Harry Potter books written by J.K. Rowling. Click [here](http://flora8heart.github.io/hp-books-webpage) for a live preview of the webpage.
 
 **Screenshot**
 ![Website Preview](img/website-preview.png)
