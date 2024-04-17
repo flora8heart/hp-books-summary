@@ -17,8 +17,17 @@ This is a webpage displaying book summaries of all seven Harry Potter books writ
 
 Used CSS grid layout to place all seven elements consisting of the book title, book image and book summary in a grid layout.
 
-**CSS Grid Layout**
+### CSS Grid Layout
+
 ![CSS Grid Layout](img/css-grid-layout.png)
+
+### Responsive Design
+
+The webpage works on both desktop and mobile. Using `@media` query, the grid layout will change according to the width of the device viewport.
+
+![Image viewport 2](img/viewport-mobile2.png)
+
+<img src="img/viewport-mobile1.png" width="200">
 
 ### Features
 
