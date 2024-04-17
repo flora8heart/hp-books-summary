@@ -25,9 +25,9 @@ Used CSS grid layout to place all seven elements consisting of the book title, b
 
 The webpage works on both desktop and mobile. Using `@media` query, the grid layout will change according to the width of the device viewport.
 
-![Image viewport 2](img/viewport-mobile2.png)
-
-<img src="img/viewport-mobile1.png" width="200">
+<img src="img/viewport-mobile1.png" align="center" width="250">
+</br>
+<img src="img/viewport-mobile2.png" align="center" width="500">
 
 ### Features
 
